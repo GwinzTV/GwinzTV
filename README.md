@@ -46,8 +46,9 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,firebase,java,mysql,flask" />
 </div>
 
+<br/>
+
 <div align="center">
 <a href='https://www.buymeacoffee.com/gwinzdev' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' /></a>
 </div>
 
-https://www.buymeacoffee.com/gwinzdev
