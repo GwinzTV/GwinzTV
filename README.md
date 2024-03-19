@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GwinzTV.GwinzTV" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gwinztv.gwinztv" />
+
 # Welcome to Joshua's GitHub Page! 👋
 
 Hi there! I'm Joshua, a passionate Software from London. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
