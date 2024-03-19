@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joshua+Iyinkanmi!;" />
 </h1>
 
-# Welcome to my GitHub Page! 👋
-
-Hi there! I'm Joshua, a passionate Software from London. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
+<h1 align="center"> **Welcome to my GitHub Page!** 👋 </h1>
 
 <h3 align="center">A passionate Graduate Software Engineer from London 🇬🇧</h3>
 
