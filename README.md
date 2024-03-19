@@ -7,14 +7,30 @@
 
 Hi there! I'm Joshua, a passionate Software from London. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
 
+<h3 align="center">A passionate Graduate Software Engineer from London 🇬🇧</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on an **AI app**
+
+ 🏦 I'm highly interested in the **Finance sector**.
+ 
+ 🌱 I’m currently learning **Docker, SQL, AWS**
+
+ 👯 I’m looking to collaborate on Trading Algorithms and Algo systems
+
+💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
 # About Me ℹ️
 
-- 🔭 I’m currently working on (TBC),  I'm interested in Python, C++ and I love diving into new technologies.
-- 🏦 I'm highly interested in the Finance sector.
-- 🌱 I’m currently learning SQL and queries
-- 👯 I’m looking to collaborate on Trading Algorithms and Algo systems
 - 📫 How to reach me: joshiyin5@gmail.com
-- ⚡ Fun fact: I am big on motor-sport 🏎️
+
 
 
 <!--
