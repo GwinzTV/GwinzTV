@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Joshua+Iyinkanmi!;" />
 </h1>
 
-<h1 align="center"> **Welcome to my GitHub Page!** 👋 </h1>
+<h1 align="center"> Welcome to my GitHub Page! 👋 </h1>
 
 <h3 align="center">A passionate Graduate Software Engineer from London 🇬🇧</h3>
 
@@ -21,7 +21,7 @@
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **A group of flamingos is called a "flamboyance."**🦩
 
  </div>
 
