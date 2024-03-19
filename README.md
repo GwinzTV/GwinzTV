@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gwinztv.gwinztv" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GwinzTV.GwinzTV" />
 
 # Welcome to Joshua's GitHub Page! 👋
 
