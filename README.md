@@ -46,6 +46,7 @@
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,firebase,java,mysql,flask" />
 </div>
 
+<hr/>
 <br/>
 
 <div align="center">
