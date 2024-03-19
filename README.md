@@ -21,7 +21,7 @@
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
-⚡ Fun fact A group of flamingos is called a "flamboyance."🦩
+⚡ Fun fact A group of flamingos is called a "**flamboyance.**"🦩
 
  </div>
 
