@@ -15,7 +15,7 @@
 
  🏦 I'm highly interested in the **Finance sector**.
  
- 🌱 I’m currently learning **Docker, SQL, AWS**
+ 🌱 I’m currently learning **SQL, Statistics, AWS**
 
  👯 I’m looking to collaborate on Trading Algorithms and Algo systems
 
