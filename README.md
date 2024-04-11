@@ -54,18 +54,31 @@
 
 <h3 align="center">⬇️ Browse through my list of projects that I have completed so far by clicking on each language ⬇️</h3>
 
-<hr/>
-<br/>
-
-<div align="center">
-<a href='https://www.buymeacoffee.com/gwinzdev' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' /></a>
-</div>
-
-<hr/>
-<br/>
 <!--
 <div align="center">
 <a href='https://github.com/GwinzTV/CPP-Projects' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
 </div>
 -->
+
+<hr/>
+<br/>
+<h1 align="center"> Support My Work </h1>
+
+<div align="center">
+<a href='https://www.buymeacoffee.com/gwinzdev' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at buymeacoffee.com' /></a>
+</div>
+<div align="center">
+<h4>If you find my projects helpful or valuable, you can show your appreciation by supporting me through Buy Me a Coffee. Your support helps me dedicate more time and resources to creating and maintaining these projects, ensuring they remain high-quality and up-to-date.
+
+Every contribution, no matter how small, goes a long way in helping me continue my work and develop new projects. Your support not only fuels my motivation but also enables me to explore new ideas and improve existing ones.
+
+So, if you've found my GitHub repository useful and would like to support my efforts, consider buying me a coffee. Your support means the world to me and helps keep the momentum going!
+
+
+Thank you for your generosity and for being part of this journey!</h4>
+</div>
+
+<hr/>
+<br/>
+
