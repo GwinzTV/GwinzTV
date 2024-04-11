@@ -58,7 +58,7 @@
 <div align="center">
 <a href='https://github.com/GwinzTV/CPP-Projects' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/cpp.png' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
-<a href='https://github.com/GwinzTV/CoGram-Bootcamp' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='C++ projects on GwinzTV Github' />
+<a href='https://github.com/GwinzTV/Event-Simulator' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
 </div>
 
