@@ -48,10 +48,9 @@
 <br/>
 
 <h1 align="center"> Projects 💻 </h1>
-<br/>
 
 <h3 align="center">⬇️ Browse through my list of projects that I have completed so far by clicking on each language ⬇️</h3>
-
+<br/>
 
 <h2 align="center"> Library Manager 📚</h2>
 <br/>
