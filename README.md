@@ -53,9 +53,18 @@
 <h3 align="center">⬇️ Browse through my list of projects that I have completed so far by clicking on each language ⬇️</h3>
 
 
+<h2 align="center"> Library Manager 📚</h2>
+<br/>
 <div align="center">
 <a href='https://github.com/GwinzTV/Book_Management' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/cpp.png' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
+<a href='https://github.com/GwinzTV/python-library-manager' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='Python projects on GwinzTV Github' />
+</a>
+</div>
+
+<h2 align="center"> Event Probability Simulator 🎲</h2>
+<br/>
+<div align="center">
 <a href='https://github.com/GwinzTV/Event-Simulator' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
 </div>
