@@ -10,8 +10,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on an **AI app**
 
  🏦 I'm highly interested in the **Finance sector**.
  
