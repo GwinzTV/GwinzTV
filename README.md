@@ -17,8 +17,6 @@
  
  🌱 I’m currently learning **SQL, Statistics, AWS**
 
- 👯 I’m looking to collaborate on Trading Algorithms and Algo systems
-
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
 ⚡ Fun fact A group of flamingos is called a "**flamboyance.**"🦩
