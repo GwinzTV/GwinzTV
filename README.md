@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **SQL, Statistics, AWS**
 
- 🌱 I’m currently working on a bank management system with a focus on concurrency and performance optimisation
+ 🌱 My current dev proj: Bank Management system with a focus on concurrency and performance optimisation
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
