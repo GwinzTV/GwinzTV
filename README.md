@@ -13,7 +13,7 @@
 
  🏦 I'm highly interested in the **Finance sector**.
  
- 🌱 I’m currently learning **SQL, Statistics, AWS**
+ 🌱 I’m currently learning **Statistics, AWS**
 
  🌱 My current dev proj: Bank Management system with a focus on concurrency and performance optimisation
 
