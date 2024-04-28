@@ -56,7 +56,11 @@
 <h2 align="center"> Bank Management System (Backend) 🏦</h2>
 <div align="center">
 <h3 align="center"> Public Soon!!! </h3>
+<h4 align="center"> Meanwhile, check out the system design diagrams!</h4>
+<a href='https://github.com/GwinzTV/SoftwareDesign' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='System design diagrams on GwinzTV Github' />
+</a>
 </div>
+
 
 <br/>
 <h2 align="center"> Library Manager 📚</h2>
