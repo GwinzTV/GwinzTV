@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Statistics, AWS**
 
- 🌱 My current dev proj: Bank Management system with a focus on concurrency and performance optimisation
+ 🌱 My current dev project: Bank Management system with a focus on concurrency and performance optimisation
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
@@ -56,7 +56,7 @@
 <h2 align="center"> Bank Management System (Backend) 🏦</h2>
 <div align="center">
 <h3 align="center"> Public Soon!!! </h3>
-<h4 align="center"> Meanwhile, check out the system design diagrams!</h4>
+<h4 align="center"> Check out the system design diagrams!</h4>
 <a href='https://github.com/GwinzTV/SoftwareDesign' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='System design diagrams on GwinzTV Github' />
 </a>
 </div>
@@ -65,16 +65,28 @@
 <br/>
 <h2 align="center"> Library Manager 📚</h2>
 <div align="center">
+<!--
 <a href='https://github.com/GwinzTV/Book_Management' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/cpp.png' border='0' alt='C++ projects on GwinzTV Github' />
 </a>
-<a href='https://github.com/GwinzTV/python-library-manager' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='Python projects on GwinzTV Github' />
+-->
+<a href='https://github.com/GwinzTV/python-library-manager' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Python projects on GwinzTV Github' />
 </a>
 </div>
+
+
+<br/>
+<h2 align="center"> My Custom Libraries 🏦</h2>
+<div align="center">
+<h3 align="center"> Check out my list of custom libraries below! </h3>
+<a href='https://github.com/GwinzTV/Libraries' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Custom Libraries on GwinzTV Github' />
+</a>
+</div
+
 
 <br/>
 <h2 align="center"> Event Probability Simulator 🎲</h2>
 <div align="center">
-<a href='https://github.com/GwinzTV/Event-Simulator' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/python.png' border='0' alt='Python projects on GwinzTV Github' />
+<a href='https://github.com/GwinzTV/Event-Simulator' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Python projects on GwinzTV Github' />
 </a>
 </div>
 
@@ -89,7 +101,7 @@ or Hire me! 😉
 </div>
 <div align="center"> If you find my projects helpful or valuable, you can show your appreciation by supporting me through Buy Me a Coffee. Your support helps me dedicate more time and resources to creating and maintaining these projects, ensuring they remain high-quality and up-to-date.
 
-Every contribution, no matter how small, goes a long way in helping me continue my work and develop new projects. Your support not only fuels my motivation but also enables me to explore new ideas and improve existing ones.
+Every contribution, no matter how small, goes a long way in helping me continue my work and develop new projects. Your support fuels my motivation and enables me to explore new ideas and improve existing ones.
 
 So, if you've found my GitHub repository useful and would like to support my efforts, consider buying me a coffee. Your support means the world to me and helps keep the momentum going!
 
