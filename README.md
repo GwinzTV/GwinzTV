@@ -75,9 +75,9 @@
 
 
 <br/>
-<h2 align="center"> My Custom Libraries 🏦</h2>
+<h2 align="center"> My Custom Libraries 🐍</h2>
 <div align="center">
-<h3 align="center"> Check out my list of custom libraries below! </h3>
+<h3 align="center"> Check out the libraries I have created so far! (more to come) </h3>
 <a href='https://github.com/GwinzTV/Libraries' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Custom Libraries on GwinzTV Github' />
 </a>
 </div
