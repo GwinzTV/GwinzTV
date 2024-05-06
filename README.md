@@ -5,13 +5,11 @@
 
 <h1 align="center"> Welcome to my GitHub Page! 👋 </h1>
 
-<h3 align="center">A passionate Graduate Software Engineer from London 🇬🇧</h3>
+<h3 align="center">A passionate Software Engineer from London 🇬🇧</h3>
 
 <br/>
 
 <div align="center">
-
- 🏦 I'm highly interested in the **Finance sector**.
  
  🌱 I’m currently learning **Statistics, AWS**
 
