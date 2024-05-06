@@ -10,6 +10,8 @@
 <br/>
 
 <div align="center">
+
+ 🌱 I’m very Passionate about **Continuous learning**
  
  🌱 I’m currently learning **Statistics, AWS**
 
