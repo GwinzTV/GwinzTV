@@ -51,13 +51,11 @@
 
 <h3 align="center">⬇️ Browse through my list of projects that I have completed so far by clicking on each language ⬇️</h3>
 <br/>
-
+https://github.com/GwinzTV/CL_Banking
 <br/>
 <h2 align="center"> Bank Management System (Backend) 🏦</h2>
 <div align="center">
-<h3 align="center"> Public Soon!!! </h3>
-<h4 align="center"> Check out the system design diagrams!</h4>
-<a href='https://github.com/GwinzTV/SoftwareDesign' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='System design diagrams on GwinzTV Github' />
+<a href='https://github.com/GwinzTV/CL_Banking' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='banking app on GwinzTV Github' />
 </a>
 </div>
 
