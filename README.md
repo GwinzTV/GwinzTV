@@ -51,7 +51,7 @@
 
 <h3 align="center">⬇️ Browse through my list of projects that I have completed so far by clicking on each language ⬇️</h3>
 <br/>
-https://github.com/GwinzTV/CL_Banking
+
 <br/>
 <h2 align="center"> Bank Management System (Backend) 🏦</h2>
 <div align="center">
