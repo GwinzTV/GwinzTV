@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Statistics, AWS**
 
- 🌱 My current dev project: Bank Management system with a focus on concurrency and performance optimisation
+ 🌱 My current dev project: Dividend Tracker
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
