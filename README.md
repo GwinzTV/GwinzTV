@@ -13,7 +13,7 @@
 
  🌱 I’m very Passionate about **Continuous learning**
  
- 🌱 I’m currently learning **Statistics, AWS**
+ <!-- 🌱 I’m currently learning **Statistics, AWS** -->
 
  🌱 My current dev project: Dividend Tracker
 
