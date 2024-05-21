@@ -59,6 +59,12 @@
 </a>
 </div>
 
+<br/>
+<h2 align="center"> Wordle 🎨🔠🔍🤔</h2>
+<div align="center">
+<a href='https://github.com/GwinzTV/wordle' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='wordle game on GwinzTV Github' />
+</a>
+</div>
 
 <br/>
 <h2 align="center"> Library Manager 📚</h2>
@@ -75,10 +81,9 @@
 <br/>
 <h2 align="center"> My Custom Libraries 🐍</h2>
 <div align="center">
-<h3 align="center"> Check out the libraries I have created so far! (more to come) </h3>
 <a href='https://github.com/GwinzTV/Libraries' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Custom Libraries on GwinzTV Github' />
 </a>
-</div
+</div>
 
 
 <br/>
