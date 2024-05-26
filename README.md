@@ -5,7 +5,7 @@
 
 <h1 align="center"> Welcome to my GitHub Page! 👋 </h1>
 
-<h3 align="center">A passionate Software Engineer from London 🇬🇧</h3>
+<h3 align="center">A passionate Software Engineer from London</h3>
 
 <br/>
 
