@@ -15,7 +15,7 @@
  
  <!-- 🌱 I’m currently learning **Statistics, AWS** -->
 
- 🌱 My current dev project: Dividend Tracker
+ 🌱 My current dev project: Water Tracker
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
@@ -68,10 +68,6 @@
 <br/>
 <h2 align="center"> Library Manager 📚</h2>
 <div align="center">
-<!--
-<a href='https://github.com/GwinzTV/Book_Management' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/cpp.png' border='0' alt='C++ projects on GwinzTV Github' />
-</a>
--->
 <a href='https://github.com/GwinzTV/python-library-manager' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Python projects on GwinzTV Github' />
 </a>
 </div>
