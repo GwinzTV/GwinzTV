@@ -15,7 +15,7 @@
  
  <!-- 🌱 I’m currently learning **Statistics, AWS** -->
 
- 🌱 My current dev project: Water Tracker
+ 🌱 My current dev project: Water Tracker App (AWS Backend)
 
 💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
