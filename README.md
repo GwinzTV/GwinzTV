@@ -17,7 +17,7 @@
 
  🌱 My current dev project: Water Tracker App (AWS Backend)
 
-💬 Ask me about **Python, C++, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
+💬 Ask me about **Python, C#, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
 
  </div>
