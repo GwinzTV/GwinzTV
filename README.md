@@ -11,13 +11,9 @@
 
 <div align="center">
 
- 🌱 I’m very Passionate about **Continuous learning**
- 
- <!-- 🌱 I’m currently learning **Statistics, AWS** -->
+ 🌱 I’m very devoted to **Continuous learning**
 
- 🌱 My current dev project: Water Tracker App (AWS Backend)
-
-💬 Ask me about **Python, C#, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
+💬 Ask me about **Python, Java, C#, ... or anything [here](https://github.com/GwinzTV/GwinzTV/issues)**
 
 
  </div>
@@ -66,9 +62,9 @@
 </div>
 
 <br/>
-<h2 align="center"> Library Manager 📚</h2>
+<h2 align="center"> Student Management 📚</h2>
 <div align="center">
-<a href='https://github.com/GwinzTV/python-library-manager' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Python projects on GwinzTV Github' />
+<a href='https://github.com/GwinzTV/StuManagement' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Java projects on GwinzTV Github' />
 </a>
 </div>
 
