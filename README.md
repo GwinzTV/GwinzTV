@@ -48,6 +48,13 @@
 <br/>
 
 <br/>
+<h2 align="center"> 🧠 AI Credit Score (Full-Stack)</h2>
+<div align="center">
+<a href='https://github.com/GwinzTV/credit-api' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='AI Credit score on GwinzTV Github' />
+</a>
+</div>
+
+<br/>
 <h2 align="center"> Bank Management System (Backend) 🏦</h2>
 <div align="center">
 <a href='https://github.com/GwinzTV/CL_Banking' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='banking app on GwinzTV Github' />
@@ -76,13 +83,6 @@
 </a>
 </div>
 
-
-<br/>
-<h2 align="center"> Event Probability Simulator 🎲</h2>
-<div align="center">
-<a href='https://github.com/GwinzTV/Event-Simulator' target='_blank'><img height='64' style='border:0px;height:64px;' src='src/click.png' border='0' alt='Python projects on GwinzTV Github' />
-</a>
-</div>
 
 
 <hr/>
